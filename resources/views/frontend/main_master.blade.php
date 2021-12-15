@@ -10,7 +10,7 @@ Licence URI: https://www.os-templates.com/template-terms
 <html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
-    <title>Foxclore</title>
+    <title>Art-Sharing-App</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <link href="{{ asset('assets/frontend/layout/styles/layout.css') }}" rel="stylesheet" type="text/css" media="all">
@@ -36,8 +36,8 @@ Licence URI: https://www.os-templates.com/template-terms
 <div class="wrapper row5">
     <div id="copyright" class="hoc clear">
         <!-- ################################################################################################ -->
-        <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">Domain Name</a></p>
-        <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+        <p class="fl_left">Copyright &copy; 2021 - All Rights Reserved - <a href="#"> Fahadul Islam</a></p>
+
         <!-- ################################################################################################ -->
     </div>
 </div>
